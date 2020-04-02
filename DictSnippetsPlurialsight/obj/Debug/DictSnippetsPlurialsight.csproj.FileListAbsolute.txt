@@ -1,0 +1,7 @@
+C:\Users\mihadadene\source\repos\DictSnippetsPlurialsight\DictSnippetsPlurialsight\bin\Debug\DictSnippetsPlurialsight.exe.config
+C:\Users\mihadadene\source\repos\DictSnippetsPlurialsight\DictSnippetsPlurialsight\bin\Debug\DictSnippetsPlurialsight.exe
+C:\Users\mihadadene\source\repos\DictSnippetsPlurialsight\DictSnippetsPlurialsight\bin\Debug\DictSnippetsPlurialsight.pdb
+C:\Users\mihadadene\source\repos\DictSnippetsPlurialsight\DictSnippetsPlurialsight\obj\Debug\DictSnippetsPlurialsight.csprojAssemblyReference.cache
+C:\Users\mihadadene\source\repos\DictSnippetsPlurialsight\DictSnippetsPlurialsight\obj\Debug\DictSnippetsPlurialsight.csproj.CoreCompileInputs.cache
+C:\Users\mihadadene\source\repos\DictSnippetsPlurialsight\DictSnippetsPlurialsight\obj\Debug\DictSnippetsPlurialsight.exe
+C:\Users\mihadadene\source\repos\DictSnippetsPlurialsight\DictSnippetsPlurialsight\obj\Debug\DictSnippetsPlurialsight.pdb
